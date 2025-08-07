@@ -1,0 +1,6 @@
+com\andressasmedeiros\horta\App.class
+com\andressasmedeiros\horta\config\WebConfig$1.class
+com\andressasmedeiros\horta\service\StatusService.class
+com\andressasmedeiros\horta\config\WebConfig.class
+com\andressasmedeiros\horta\model\Status.class
+com\andressasmedeiros\horta\controller\StatusController.class
