@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Minha Horta</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon.png" />
+    <link rel="stylesheet" href="assets/style/style.css"/>
+</head>
+<body>
+<header class="toolbar">
+    <img class="logo" src="assets/img/logo.png" alt="Minha Horta" />
+    <div class="toolbar-buttons">
+        <button id="aboutBtn" class="text-button">Quem sou?</button>
+    </div>
+    <form action="https://www.google.com/search" method="get" target="_blank" class="search-form">
+        <input type="text" name="q" placeholder="Pergunte algo..." required>
+        <button type="submit">Buscar</button>
+    </form>
+</header>
+
+<div class="container">
+    <main class="cards-container">
+    </main>
+</div>
+
+<!-- Modal “Quem sou?” -->
+<div id="aboutModal" class="modal">
+    <div class="modal-content">
+        <span id="modalClose" class="modal-close">&times;</span>
+        <h2>Sobre “Minha Horta”</h2>
+        <p>
+            Olá! Meu nome é <strong>Andressa Medeiros</strong>, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Uninter</strong>.
+        </p>
+        <p>
+            “Minha Horta” é um projeto de extensão acadêmica que desenvolvi com o objetivo de tornar o monitoramento de hortas mais acessível e inteligente. Utilizando componentes do <strong>Arduino</strong>, criei um equipamento que mede em tempo real fatores essenciais para o cultivo saudável, como temperatura, umidade do solo e do ar, e intensidade de luz ambiente.
+        </p>
+        <p>
+            A proposta é ajudar as pessoas a cultivarem seus próprios alimentos em casa de forma mais prática, segura e sustentável — promovendo assim uma alimentação mais saudável e consciente.
+        </p>
+        <p style="margin-top: 24px; font-style: italic; font-size: 0.95em;">
+            <strong>Obs.:</strong> o site funciona apenas quando está conectado ao equipamento físico via Wi-Fi, que foi montado especialmente para esse projeto.
+        </p>
+    </div>
+</div>
+
+<script src="script/script.js"></script>
+</body>
+</html>
