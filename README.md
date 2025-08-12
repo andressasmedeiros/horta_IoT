@@ -22,9 +22,9 @@ O objetivo principal é **automatizar o monitoramento de uma horta doméstica**,
 
 A ideia é **tornar o cuidado com hortas mais fácil, eficiente e acessível**, ajudando na produção sustentável de alimentos em casa.
 
-<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/66a4712f-9a6b-4d68-bd37-502d4eabcb2b" />
-<img width="567" height="412" alt="image" src="https://github.com/user-attachments/assets/093beceb-a9a7-4726-afa0-0f33b7fc7946" />
+<img width="1917" height="941" alt="Captura de tela 2025-08-05 225454" src="https://github.com/user-attachments/assets/a3c35299-f501-4c5c-9ad2-c82f284d064f" />
 
+<img width="567" height="412" alt="Captura de tela 2025-08-05 230859" src="https://github.com/user-attachments/assets/1cf402ce-1038-4edc-ba9f-4b30c410138f" />
 
 ---
 
